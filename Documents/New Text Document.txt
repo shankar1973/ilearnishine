@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 added new text from the web interface
 added new text from desktop inetrface
+=======
+modified text from web interface
+>>>>>>> origin/master
