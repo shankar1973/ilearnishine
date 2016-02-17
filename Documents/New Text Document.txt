@@ -1,1 +1,2 @@
 added new text from the web interface
+added new text from desktop inetrface
