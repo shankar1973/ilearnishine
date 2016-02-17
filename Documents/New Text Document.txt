@@ -1,8 +1,1 @@
-sample text
-<<<<<<< HEAD
-changed for testing
-Changed from desktop 
-=======
-changed for testing 
-changed from web interface
->>>>>>> origin/master
+removed all text
