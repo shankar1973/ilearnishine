@@ -1,1 +1,1 @@
-added new text from the web interface
+modified text from web interface
